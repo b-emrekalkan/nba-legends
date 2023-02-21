@@ -4,8 +4,12 @@ import { Card } from "react-bootstrap";
 const PlayerCards = ({ name, img, statistics }) => {
     //? 👆 const {name, image, statistics} = props
     const [showImage, setShowImage] = useState(true);
+    const handleClick = () => setShowImage(!showImage);
     return (
-        <Card className="rounded-2 m-auto player-card" role="button">
+        <Card
+        //? onClick={() => setShowImage(!showImage)}
+        onClick={handleClick}
+        className="rounded-2 m-auto player-card" role="button">
             {showImage ? (
                 <Card.Img variant="top" src={img} className="player-img" />
             ) :
@@ -13,7 +17,7 @@ const PlayerCards = ({ name, img, statistics }) => {
                     <ul className="m-auto">
                         {statistics.map((item, index) => {
                             return (
-                                <li className="h5 text-start list-unstyled" key={index}>🏀{item}</li>
+                                <li className="h5 text-start list-unstyled" key={index}>🏀 {item}</li>
                             )
                         })}
                     </ul>
