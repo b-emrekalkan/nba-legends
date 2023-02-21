@@ -6,6 +6,11 @@
 body {
   background-image: url("./assets/lebron-james-lakers-mixed-media-elite-editions.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*! Player Card-Container Styling */
+.card-container{
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/661/973/110/cool-nba-logo-wallpaper-preview.jpg")
 }

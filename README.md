@@ -56,7 +56,7 @@ export default Header
 
 ```
 
-## 
+## Create PlayerCards.jsx for rendering players under "components" folder 👇
 
 ```javascript
 
