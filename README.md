@@ -2,10 +2,10 @@
 
 ## <center>👇 PROJECT STEPS 👇</center>
 
-## 
+## Install Bootstrap 👇
 
-```javascript
-
+```bash
+npm install react-bootstrap bootstrap
 ```
 
 ## 

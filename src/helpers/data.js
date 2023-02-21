@@ -1,7 +1,7 @@
 export const data = [
   {
     name: "Kareem Abdul-Jabbar",
-    img: "https://efemeridesdoefemello.files.wordpress.com/2014/05/13jun14.jpeg?w=640",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.png",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
@@ -11,7 +11,7 @@ export const data = [
   },
   {
     name: "Larry Bird",
-    img: "https://cdn.vox-cdn.com/thumbor/8yWTZWnt03DGQkU9ZVdGluZWqRM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23373244/147497571.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/1449.png",
     statistics: [
       "21,791 points",
       "8,974 rebaunds",
@@ -41,7 +41,7 @@ export const data = [
   },
   {
     name: "Michael Jordan",
-    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/893.png",
     statistics: [
       "32,292 points",
       "6,672 rebaunds",
@@ -51,7 +51,7 @@ export const data = [
   },
   {
     name: "Karl Malone",
-    img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/252.png",
     statistics: [
       "36,928 points",
       "14,968 rebaunds",
@@ -61,7 +61,7 @@ export const data = [
   },
   {
     name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/165.png",
     statistics: [
       "26,946 points",
       "13,748 rebaunds",
@@ -71,7 +71,7 @@ export const data = [
   },
   {
     name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/406.png",
     statistics: [
       "28,596 points",
       "13,099 rebaunds",
@@ -111,7 +111,7 @@ export const data = [
   },
   {
     name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/121.png",
     statistics: [
       "24,815 points",
       "11,607 rebaunds",
@@ -141,7 +141,7 @@ export const data = [
   },
   {
     name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
     statistics: [
       "33,643 points",
       "7,047 rebaunds",
@@ -161,7 +161,7 @@ export const data = [
   },
   {
     name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/787.png",
     statistics: [
       "23,757 points",
       "12,546 rebaunds",
