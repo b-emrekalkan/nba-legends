@@ -23,7 +23,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
   box-sizing: border-box;
 }
 body {
-  background-color:#f4d467;
+  background-image: url("./assets/lebron-james-lakers-mixed-media-elite-editions.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ```
