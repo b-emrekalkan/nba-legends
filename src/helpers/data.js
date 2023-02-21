@@ -179,4 +179,24 @@ export const data = [
       "13 All Star",
     ],
   },
+  {
+    name: "James Harden",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+    statistics: [
+      "24,355 points",
+      "5,547 rebaunds",
+      "6,841 assist",
+      "8 All Star",
+    ],
+  },
+  {
+    name: "James Harden",
+    img: "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
+    statistics: [
+      "24,355 points",
+      "5,547 rebaunds",
+      "6,841 assist",
+      "8 All Star",
+    ],
+  },
 ];
