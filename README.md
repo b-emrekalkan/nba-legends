@@ -14,6 +14,20 @@ npm install react-bootstrap bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 ```
 
+## 🚩 Index.css 👇
+
+```css
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color:#f4d467;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+```
+
 ## Create "components" folder under "src" folder
 
 ## Create "Header.jsx" file under "components" folder 👇
@@ -24,14 +38,20 @@ import nbaLogo from "../assets/nba-logo.png"
 
 const Header = () => {
   return (
-    <Container>
-        <Image src={nbaLogo}></Image>
-        <h1>NBA 🏀 Legends</h1>
+    <Container className="text-center mt-4">
+        <Image src={nbaLogo} width="200px"></Image>
+        <h1 className="my-2 font-monospace display-4">NBA🏀Legends</h1>
     </Container>
   )
 }
 
 export default Header
+```
+
+## Create CardContainer.jsx file under "components" folder 👇
+
+```javascript
+
 ```
 
 ## 

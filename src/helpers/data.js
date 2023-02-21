@@ -190,13 +190,13 @@ export const data = [
     ],
   },
   {
-    name: "James Harden",
+    name: "Dominique Wilkins",
     img: "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
     statistics: [
-      "24,355 points",
-      "5,547 rebaunds",
-      "6,841 assist",
-      "8 All Star",
+      "26,668 points",
+      "7,169 rebaunds",
+      "2,677 assist",
+      "9 All Star",
     ],
   },
 ];
