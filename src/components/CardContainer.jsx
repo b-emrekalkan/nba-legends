@@ -16,7 +16,7 @@ const CardContainer = () => {
             />
             <Container className="card-container rounded-4 my-4 p-3">
                 <Row className="gap-3 justify-content-center">
-                    {data.filter((player) => player.name.toLowerCase().includes(search.toLowerCase())).map((player, index) => (
+                    {data.filter((player) => player.name.toLowerCase().includes(search.trim().toLowerCase())).map((player, index) => (
                         <Col md={6} lg={4} xl={3} key={index}>
                             <PlayerCards {...player} />
                         </Col>
