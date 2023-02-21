@@ -1,4 +1,4 @@
-# <center>💥 [NBA Legends Project](https://nba-legends-with-react.netlify.app/) 💥</center>
+# <center>🏀 [NBA Legends Project](https://nba-legends-with-react.netlify.app/) 🏀</center>
 
 <hr>
 
